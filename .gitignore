@@ -1,0 +1,18 @@
+# 
+# Backend (Django)
+venv/
+__pycache__/
+db.sqlite3
+*.pyc
+*.log
+.env
+backend/earthquake_rf_model.joblib
+
+
+# Frontend (React)
+node_modules/
+build/
+
+# System Files
+.DS_Store
+*.log
