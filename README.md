@@ -19,15 +19,20 @@ This project utilizes Machine Learning to predict earthquakes and provides users
 
 🖼️ Screenshots
 Here are some screenshots from the project:
- ![Earthquake Visualization](images/image1.png)
+ 
 
 Homepage of the Earthquake Prediction Website.
 
+![HOme Page](images/image1.PNG)
+
+About of the Earthquake Prediction Website.
+
+![About Page](images/image2.PNG)
 
 Prediction page showing earthquake probabilities.
 
+![Prediction](images/image3.PNG)
 
-Data visualizations representing trends and past seismic activities.
 
 # 🛠️ Tech Stack
 ### Frontend 🖥️
